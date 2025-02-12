@@ -1,5 +1,5 @@
-📌 Overview
-This is a machine learning-based disease prediction system designed to predict whether a person has diabetes, heart disease, or Parkinson’s disease based on user inputs. The system uses Streamlit for the frontend interface and ML models for prediction.
+🌟 Project Overview
+The Disease Prediction System leverages machine learning algorithms to predict the likelihood of a person having diabetes, heart disease, or Parkinson’s disease based on user input. It features an interactive interface built with Streamlit and utilizes trained models for disease prediction.
 
 
 📁 Project Structure:
@@ -16,14 +16,14 @@ disease_prediction/
 │── README.md
 │── requirements.txt
 
-🛠️ Technologies Used
+🔧 Technologies Used
 Python 🐍
 Streamlit (for UI)
 Scikit-learn (for model training)
 Pandas & NumPy (for data processing)
 Pickle (for model storage)
 
-⚡ Features
+ 🎯Features
 ✔ Predicts Diabetes, Heart Disease, and Parkinson’s Disease
 ✔ User-friendly Streamlit interface
 ✔ Models trained on real-world datasets
@@ -44,12 +44,12 @@ streamlit run web.py
 
 4️⃣ Enter the required details and get predictions!
 
-📊 How It Works
+🔍 How It Works
 User inputs health parameters through the Streamlit interface.
 Pre-trained ML models process the data.
 The prediction result is displayed on the UI.
 
-🏗 Future Improvements
+🌱 Future Improvements
 Add predictions for more diseases
 Improve model accuracy with advanced algorithms
 Deploy on cloud platforms for wider accessibility
